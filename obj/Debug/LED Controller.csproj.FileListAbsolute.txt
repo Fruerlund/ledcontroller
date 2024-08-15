@@ -1,0 +1,11 @@
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\bin\Debug\LED Controller.exe.config
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\bin\Debug\LED Controller.exe
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\bin\Debug\LED Controller.pdb
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\obj\Debug\LED Controller.csproj.AssemblyReference.cache
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\obj\Debug\LED Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\obj\Debug\LED_Controller.Form1.resources
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\obj\Debug\LED_Controller.Properties.Resources.resources
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\obj\Debug\LED Controller.csproj.GenerateResource.cache
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\obj\Debug\LED Controller.csproj.CoreCompileInputs.cache
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\obj\Debug\LED Controller.exe
+C:\Users\flfru\Dropbox\C_SHARP\LED Controller\obj\Debug\LED Controller.pdb
